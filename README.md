@@ -1,4 +1,5 @@
-# Serverless Notes App
+# Barrel
+- Your simple personal cloud storage.
 
 ### Source code for app
 - [Serverless Api](https://github.com/tylernchls/serverless-notes-app-api)
